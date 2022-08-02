@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# csv file
+airports/airlines.csv
+airports/airlines.csv
+airports/flights.csv
